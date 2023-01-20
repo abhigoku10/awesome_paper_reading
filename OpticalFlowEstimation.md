@@ -11,8 +11,7 @@
 |01|![SimpleClick](data/CapsuleVOS.png)|__SimpleClick__|__SimpleClick: Interactive Image Segmentation with Simple Vision Transformers__|[`paper`](https://arxiv.org/pdf/2210.11006v2.pdf)|[`GIT`](https://github.com/uncbiag/SimpleClick)|__2022__|
 
 ### Interactive Image/Video Segmentation
-
-|No.|Figure   |Method |Title |Paper_Link |Github_Link|Year |Type |Dataset |Pre-Trained_Model|Training_Pipeline |InferencePipeline |License|
+|No. |Figure   |Method |Title |Paper_Link |Github_Link |Year |Type |Dataset |Pre-Trained_Model |Training_Pipeline |InferencePipeline |License|
 
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:-----:|:-----:|:-----:|:---:|:-----:|:-----:|:-----:|
 
