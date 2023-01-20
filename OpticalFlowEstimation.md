@@ -15,9 +15,9 @@
 
 
 
-|18|![CapsuleVOS](data/CapsuleVOS.png)|__SimpleClick__|__SimpleClick: Interactive Image Segmentation with Simple Vision Transformers__|[`paper`](https://arxiv.org/pdf/2210.11006v2.pdf)|[`GIT`](https://github.com/uncbiag/SimpleClick)|__2022__|Pytorch|Click (one or more)|GrabCut
+|01|![CapsuleVOS](data/CapsuleVOS.png)|__SimpleClick__|__SimpleClick: Interactive Image Segmentation with Simple Vision Transformers__|[`paper`](https://arxiv.org/pdf/2210.11006v2.pdf)|[`GIT`](https://github.com/uncbiag/SimpleClick)|__2022__|Pytorch|Click (one or more)|GrabCut
 Berkeley
 DAVIS
 Pascal VOC
-SBD|Yes|Yes|Yes|MIT
+SBD|Yes|Yes|Yes|MIT|
 
