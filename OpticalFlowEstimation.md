@@ -10,7 +10,7 @@
 |14|![AGNN](data/AGNN.png)|__Zero-Shot Video Object Segmentation via Attentive Graph Neural Networks__|Wenguan Wang, Xiankai Lu, Jianbing Shen, David J. Crandall, Ling Shao|__ICCV 2019__|[`paper`](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Zero-Shot_Video_Object_Segmentation_via_Attentive_Graph_Neural_Networks_ICCV_2019_paper.pdf)|
 
 ### Interactive Image/Video Segmentation
-|No.   |Figure   |Method   |Title  |Paper_Link  |Github_Link|Year   |Type  |Dataset |Pre-Trained_Model|Training_Pipeline |InferencePipeline |License |
+|No.   |Figure   |Method |Title |Paper_Link  |Github_Link|Year   |Type  |Dataset |Pre-Trained_Model|Training_Pipeline |InferencePipeline |License|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:-----:|:-----:|:-----:|:---:|:-----:|:-----:|:-----:|:---:|
 
 
