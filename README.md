@@ -6,7 +6,11 @@
 
 ## Object Segmetation 
 
-## Human Body Parts Segmentation 
+## Segmentation 
+    ## Human Face Parsing 
+    ## Human Body Parts Parsing 
+    ## Animal Parsing 
+    ## Vehicle Parsing 
 
 ## Interactive Image Segmentation 
 
