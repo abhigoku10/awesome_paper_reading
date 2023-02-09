@@ -17,7 +17,7 @@
 | | | | | | | | | | | | | | |
 |7|![RIIS](datacapture/riis.png)|RIIS|https://arxiv.org/pdf/2101.04378v3.pdf|https://github.com/lids-unicamp/rethinking-interactive-image-segmentation|2021|PyTorch|Click|DAVIS|Yes|No|Yes|MIT|KY|
 | | | | | | | | | | | | | | |
-|8|![IOG](datacapture/iog.png)|IOG|https://ieeexplore.ieee.org/document/9157733|https://github.com/shiyinzhang/Inside-Outside-Guidance|2020|PyTorch|Box|Pascal VOC|Yes|Yes|Yes|NA|KY|
+|8|![IOG](datacapture/iog.png)<p>|IOG|https://ieeexplore.ieee.org/document/9157733|https://github.com/shiyinzhang/Inside-Outside-Guidance|2020|PyTorch|Box|Pascal VOC|Yes|Yes|Yes|NA|<p>*DEXTR<p> *PixelImagenet<p> *iFCN <p> *Distance Map<p> *ClickRepresentation <p> *Deeplabv3+<p> *CoarseNet <p> *Pertrubation<p> *TwoStage <p> *Augmentationfrom SBD Map<p>*ContoursIS|
 | | | | | | | | | | | | | | |
 |9|![Nuclick](datacapture/nuclick.png)|Nuclick|https://arxiv.org/pdf/2005.14511v2.pdf|https://github.com/mostafajahanifar/nuclick_torch|2020|PyTorch|Click|Gland|Yes|Yes|Yes|NA|KY|
 | | | | | | | | | | | | | | |
